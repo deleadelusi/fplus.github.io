@@ -1,0 +1,66 @@
+---
+title: "Career"
+editor: visual
+---
+
+Chief Technology Officer\
+Palton Morgan Holdings May 2021 -- Date
+
+*• Provide leadership in technology for business enablement & innovation*
+
+*• Define the enterprise architecture in conjunction with current and future requirements*
+
+*• Deploy various Applications to support the business.*
+
+*• Develop Software Applications & Database Administrations*
+
+*• Implement CRM/NAV Business Central Application*
+
+*• Deploy and manage AVAYA Call Center application*
+
+*• Deploy and manage Staff portal, Emails etc*
+
+*• Develop policies for internal IT operations to drive attainment of SLAs*
+
+*• Build a competitive and agile team*
+
+*• Identify and manage vendors in the delivery of contracted work*
+
+*• Ensure IT projects are complete on-time, on-scope, and on-budget*
+
+*• Developed IT Standards, IS Security Policies*
+
+*• Etc*
+
+------------------------------------------------------------------------
+
+Cloud Solutions Architect/Chief Technology Officer
+
+Futureplus Technologies Limited\
+May 2019 -- May 2021
+
+*• Engage in Design and Architecture of Cloud Services (AWS & Azure)*
+
+*• Engage in web and native app development as well as managing Applications in Cloud infrastructure for Azure and AWS.*
+
+*• Work with Azure Synapse and proven understanding of data structure principles and data platforms and data analytics stream etc*
+
+*• Develop and Support built Software Applications such as Accounts Management System, SMS Enquiry System, Staff/Report Mgt Portal etc using VB.Net, Java Script, etc*
+
+*• Working and deep understanding of software and web technologies*
+
+*• Advanced knowledge and experience in AWS database, MySQL, Hadoop, Aurora, Oracle • Database Administration such as administering SQL Server*
+
+*• Creating project timelines for the development and deployment*
+
+*• Keep up to date with latest technologies, maintain and improve enterprise and business.*
+
+*• Represents the company for proposals' presentation and meetings*
+
+*• Train team members and supervise the subordinate duties/assignments*
+
+*• Manage the company's clients and other business relationship*
+
+*• Good understanding of DevOps practice and culture*
+
+*• Etc*

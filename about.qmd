@@ -1,0 +1,11 @@
+---
+title: "Profile"
+---
+
+Samuel Bamidele Adelusi is a dynamic and seasoned IT professional with cognate work experience gained through several developed & managed IT projects with track records in Cloud Computing, Software Development, Database Administration, Data Analytic, Networking & System Administration and Infrastructure Management to name a few.
+
+He has over 15 years of experience as a Software developer in Analysis & Design, Development, Management and Implementation, Migrating and provide Production and Technical Support of Client-Server, Servers, Windows Desktop and Web based applications. He has experience in understanding and modifying whole Software Project Life Cycle (requirements, design, development, testing, deployment and version control).
+
+To learn more about me, please visit:
+
+<https://www.linkedin.com/in/dele-adelusi/>.

@@ -1,0 +1,10 @@
+---
+title: "Gallery"
+---
+
+Having a collection of photos give good memory of significant places, and events in our life. 
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1

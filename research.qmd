@@ -1,0 +1,14 @@
+---
+title: "Research"
+editor: visual
+---
+
+I am a Master student studying Social Data Analytics. My research topic is on ....
+
+Interests:
+
+\* Data Science
+
+To learn more information about me, please visit:
+
+https://www.linkedin.com/in/dele-adelusi

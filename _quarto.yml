@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Samuel Adelusi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd  
+      - career.qmd
+      - href: research.qmd
+        text: Research
+      - href: ResumeR.pdf
+        text: Resume 
+      - text: Assignments 
+        menu: 
+        - href: ResumeR.pdf
+          text: "Assignment 1"
+      - contact.qmd
+
+format:
+  html:
+    theme: Zephyr
+    css: styles.css
+    toc: true
+    fontsize: 1.0em
+    mainfont: Century Gothic
+    monofont: Calibri 
+    
+
+
+
